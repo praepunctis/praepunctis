@@ -1,9 +1,9 @@
 ### Hey there! 👋
 
-[![Praepunctis's Github stats](https://github-readme-stats.vercel.app/api?username=praepunctis&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Praepunctis's Github stats](https://github-readme-stats.vercel.app/api?username=praepunctis&count_private=true&show_icons=true&theme=tokyonight&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 😄 Nice to meet you!
-- My name's Kelly!
+My name's Kelly, and I like to make tea, bad puns, and new friends 🤙
 
 ## 🔭 I’m currently working on...
 - directing CruzHacks, the flagship hackathon of Santa Cruz 
