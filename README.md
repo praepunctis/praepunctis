@@ -11,8 +11,8 @@ My name's Kelly, and I like to make tea, bad puns, and new friends 🤙
 - school :^)
 
 ## 🌱 I’m currently learning...
-- programming computer networks
-- operating systems code
+- distributed systems
+- FPGA programming
 - how to play the handpan!
 
 
