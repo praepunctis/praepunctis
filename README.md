@@ -6,14 +6,14 @@
 My name's Kelly, and I like to make tea, bad puns, and new friends 🤙
 
 ## 🔭 I’m currently working on...
-- directing CruzHacks, the flagship hackathon of Santa Cruz 
-- designing my third escape room 
+- teaching computers how to write music
+- reading up on the science behind handpans
 - school :^)
 
 ## 🌱 I’m currently learning...
 - distributed systems
-- FPGA programming
-- how to play the handpan!
+- logic design & FPGA programming
+- Javascript 
 
 
 <!--
