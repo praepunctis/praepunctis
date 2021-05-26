@@ -6,7 +6,7 @@
 My name's Kelly, and I like to make tea, bad puns, and new friends 🤙
 
 ## 🔭 I’m currently working on...
-- teaching computers how to write music
+- figuring out how to make computers write music
 - reading up on the science behind handpans
 - school :^)
 
