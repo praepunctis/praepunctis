@@ -10,7 +10,7 @@ My name's Kelly, and I like to make tea, bad puns, and new friends 🤙
 - leading a [music-related software project](https://github.com/Spotify-Open-Recommendation-Engine/spotify-open-recommendation-engine) for my degree capstone course
 
 ## 🌱 I’m currently learning...
-- computer graphics (WebGL, three.js, & a whole lotta math)
+- [computer graphics](https://people.ucsc.edu/~kfesler/cse160/) (WebGL, three.js, & a whole lotta math)
 - pixel art
 - electric guitar 🤘
 
