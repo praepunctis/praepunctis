@@ -6,8 +6,13 @@
 My name's Kelly, and I like to make coffee, bad puns, and new friends.
 
 ## 🔭 I’m currently working on...
+- overhauling my personal website. It's been a lot of years!
+- reviving my tech blog 
 
 ## 🌱 I’m currently learning...
+- x86
+- how to build a Gameboy emulator  
+- how to play the accordion 
 
 ## ✅ I've recently completed...
 - tutoring [Distributed Systems](http://decomposition.al/CSE138-2021-09/course-overview.html#tutors) at university
